@@ -48,13 +48,7 @@
   - 응답 받은 성격 분석 결과를 JSON 형식으로 프론트엔드에 반환.
 
 - 백엔드 코드 및 구현 내용:
-  [https://github.com/hayunjon2025/duksung-fortune-api](https://github.com/hayunjon2025/duksung-fortune-api)
-
----
-
-## 예시 화면
-
-<img src="./images/sample-result.png" width="400px" alt="결과 예시 이미지" />
+  [https://github.com/belita04/duksung-foutune-api] (https://github.com/belita04/duksung-foutune-api)
 
 ---
 
