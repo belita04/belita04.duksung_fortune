@@ -41,14 +41,15 @@
 
 - 백엔드는 Google Gemini API를 직접 호출하는 역할을 수행하며, Vercel의 서버리스 기능을 이용해 배포되었다.
 - API 경로 :  
-  [https://assign2-delta.vercel.app/api/duksungAI](https://assign2-delta.vercel.app/api/duksungAI)
+  [https://assign2-delta.vercel.app/api/duksungAI]
 - 기능 설명:
   - 프론트엔드에서 전송한 JSON 데이터를 받아, `userName`, `userBirth`, `userBloodType` 정보를 기반으로 Gemini API에 요청을 생성.
   - 요청은 서버에서 환경변수로 저장된 Gemini API 키를 사용하여 안전하게 처리됨.
   - 응답 받은 성격 분석 결과를 JSON 형식으로 프론트엔드에 반환.
 
 - 백엔드 코드 및 구현 내용:
-  [https://github.com/belita04/duksung-foutune-api] (https://github.com/belita04/duksung-foutune-api)
+[[https://github.com/belita04/duksung_fortune](https://github.com/belita04/duksung-foutune-api)]
+
 
 ---
 
