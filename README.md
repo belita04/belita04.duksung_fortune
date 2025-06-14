@@ -6,7 +6,7 @@
   <span style="background-color:rgb(182,0,80); color:white; padding: 2px 4px; border-radius: 3px;">혈액형 성격 분석 AIz</span>는 해당 혈액형을 기반으로  
   사용자의 오늘 기분, 성격 특징, 강점과 약점을 간결하고 긍정적으로 설명해준다.  
   마지막에는 희망을 주는 한 줄 격언을 덧붙여, 하루를 응원하는 메시지를 제공한다.
-- 서비스 접속 주소 : [https://belita04.duksung_fortune/](https://belita04.duksung_fortune/)
+- 서비스 접속 주소 : [https://duksung_fortune/](https://duksung_fortune/)
 
 
 ---
